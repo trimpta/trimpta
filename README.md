@@ -16,5 +16,4 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trimpta&label=Profile%20views&color=040d12&style=flat-square" alt="trimpta" /> </p>
 
